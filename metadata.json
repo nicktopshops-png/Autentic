@@ -1,0 +1,6 @@
+{
+  "name": "GOTTA - Verificação de Autenticidade",
+  "description": "Página oficial de verificação de autenticidade via NFC para camisetas infantis hidrorrepelentes GOTTA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
